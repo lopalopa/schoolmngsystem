@@ -7,7 +7,6 @@ A comprehensive web-based school management system developed in PHP.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -20,9 +19,9 @@ A comprehensive web-based school management system developed in PHP.
 ## Installation
 
 ### Requirements
-- PHP 7.0+
-- MySQL/MariaDB
-- Web server (e.g., Apache, Nginx)
+- PHP 8.0+
+- MySQL
+- Web server (e.g.,XAMPP )
 
 ### Steps
 1. Clone the repository:
